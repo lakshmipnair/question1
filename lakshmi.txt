@@ -1,6 +1,6 @@
 I am Lakshmi priya Nair
 
-this a new file i am working on
+this a new file i am working oin
 
 <<<<<<< HEAD
 
@@ -10,3 +10,6 @@ trying fetch and merge;;;
 =======
 fetch practice // remote repo edited
 >>>>>>> origin/master
+
+
+editing in local:
