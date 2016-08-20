@@ -2,7 +2,11 @@ I am Lakshmi priya Nair
 
 this a new file i am working on
 
+<<<<<<< HEAD
 
 file in local repo;;; 
 
 trying fetch and merge;;;
+=======
+fetch practice // remote repo edited
+>>>>>>> origin/master
