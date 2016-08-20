@@ -10,3 +10,6 @@ trying fetch and merge;;;
 =======
 fetch practice // remote repo edited
 >>>>>>> origin/master
+
+
+edited remote repo
