@@ -12,4 +12,8 @@ fetch practice // remote repo edited
 >>>>>>> origin/master
 
 
+<<<<<<< HEAD
 editing in local:
+=======
+edited remote repo
+>>>>>>> 4e5cf2d11f4c63aad47e63297f4418db7e4d9adf
